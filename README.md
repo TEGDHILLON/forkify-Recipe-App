@@ -1,5 +1,5 @@
 # forkify Recipe App
-https://forkify-dhillon.netlify.app
+https://dhillon-recipe.netlify.app/
 
 •	Designed a website to search, Add, Bookmark cooking recipe from millions of other recipes
 
